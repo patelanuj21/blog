@@ -729,14 +729,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "About"
         url = "/about/"
         title = ""
-      [[languages.en.menu.main]]
-        weight = 6
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
+      #[[languages.en.menu.main]]
+      #  weight = 6
+      # identifier = "github"
+      #  pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
+      #  post = ""
+      #  name = ""
+      #  url = "https://github.com/dillonzq/LoveIt"
+      #  title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
         enable = true
@@ -756,7 +756,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/avatar.jpeg"
           title = ""
           subtitle = "Hello World, I am Anuj!"
           typeit = true

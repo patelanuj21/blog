@@ -1,7 +1,10 @@
 ---
-title: "About"
+title: "About Me"
 date: 2023-05-28T21:44:38-07:00
-draft: true
+author: "Anuj Patel"
+description: "About me"
+tags: ["Me", "About", "Anuj Patel"]
+categories: ['Personal']
 ---
 
-# Hello
+# Hello From Anuj
